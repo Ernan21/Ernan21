@@ -6,8 +6,8 @@
 
 <div>
   <a href="https://github.com/Ernan21"</a>
-  <img height="180cm" align="center" src="https://github-readme-stats.vercel.app/api?username=Ernan21&show_icons=true&theme=dracula" />
-  <img height="180cm" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ernan21&theme=dracula&layout=compact&langs_count=8&card_width=320" />
+  <img height="180cm" align="center" src="https://github-readme-stats.vercel.app/api?username=Ernan21&show_icons=true&theme=white" />
+  <img height="180cm" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ernan21&layout=compact&langs_count=8&card_width=320&theme=white" />
 </div>
 
 ## Linguagens conhecidas
