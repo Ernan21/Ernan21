@@ -14,5 +14,13 @@
 
 <div>
   <h2>Formas de contato</h2>
-  <a href="https://api.whatsapp.com/send?phone=8592477663" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="https://api.whatsapp.com/send?phone=8592477663" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-06625f?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>
+  <a href="mailto:ernando.freitas123@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-c71610?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a onclick="alert('EM PRODUÇÃO')" target="_blank">
+    <img src="https://img.shields.io/badge/Portifolio online-c71610?style=for-the-badge&logo=&logoColor=white">
+  </a>
 </div>
