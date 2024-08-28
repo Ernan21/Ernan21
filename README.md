@@ -39,12 +39,8 @@
   <a href="https://www.instagram.com/ernandofilho21/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-c1558b?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
+  <a href="https://www.linkedin.com/in/ernando-freitas-66a0b1194/?trk=public-profile-badge-profile-badge-view-profile-cta&originalSubdomain=br">
+    <img src="https://img.shields.io/badge/linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </div>
 
-Perfil de Trabalho
-<a href="https://www.linkedin.com/in/ernando-freitas-66a0b1194/?trk=public-profile-badge-profile-badge-view-profile-cta&originalSubdomain=br" border="1">
-  <div align="center">
-    <img align="left" height="60cm" alt="linkdinImgProfile" src="https://media.licdn.com/dms/image/v2/D4D03AQH9elzQBNP4tQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1673440264973?e=2147483647&v=beta&t=_35uDm1tFWOW-pqPPNZPZ4qqM0fpDVzQ8F2ayqtN550">
-    <h3 align="left">Ernando Freitas</h3>
-  </div>
-</a>
