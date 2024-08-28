@@ -1,13 +1,13 @@
-# Ola! Sou o Enando Freitas 👋
+<h1 align="center"> Ola! Sou o Enando Freitas 👋</h1>
 
-- 🔭 Hoje trabalho com Back-end
-- 🌱 Estou estudando a Area de Ciencia de Dados
-- 😄 Pronouns: Ele/Dele
+- 🔭 Hoje trabalho com **Back-end**
+- 🌱 Estou estudando a **Area de Ciencia de Dados**
+- 😄 Pronomes: **Ele/Dele**
 
 <div align="center">
   <a href="https://github.com/Ernan21"</a>
   <img height="180cm" align="center" src="https://github-readme-stats.vercel.app/api?username=Ernan21&show_icons=true" />
-  <img height="180cm" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ernan21&layout=compact&langs_count=8&card_width=320" />
+  <img height="180cm" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ernan21&layout=donut&langs_count=999" />
 </div>
 
 ## Linguagens conhecidas
