@@ -4,8 +4,6 @@
 - 🌱 Estou estudando a Area de Ciencia de Dados
 - 😄 Pronouns: Ele/Dele
 
-##
-
 <div>
   <a href="https://github.com/Ernan21"</a>
   <img height="180cm" align="center" src="https://github-readme-stats.vercel.app/api?username=Ernan21&show_icons=true&theme=dracula" />
@@ -38,7 +36,7 @@
   <a href="mailto:ernando.freitas123@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-c71610?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="mailto:ernando.freitas123@gmail.com" target="_blank">
+  <a href="https://www.instagram.com/ernandofilho21/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-c1558b?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </div>
