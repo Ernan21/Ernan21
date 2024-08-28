@@ -1,16 +1,21 @@
-## Hi there 👋
+### Ola! Sou o Enando Freitas 👋
 
-<!--
-**Ernan21/Ernan21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Hoje trabalho com Back-end
+- 🌱 Estou estudando a Area de Ciencia de Dados
+- 😄 Pronouns: Ele/Dele
+- ✉ Email de contado: ernando.freitas123@gmail.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/Ernan21"</a>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=Ernan21&show_icons=true&theme=dark&locate=pt-br"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=Ernan21&show_icons=true&locate=pt-br"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Ernan21&show_icons=true&locate=pt-br" />
+  </picture>
+</div>
