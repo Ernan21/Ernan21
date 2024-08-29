@@ -6,8 +6,28 @@
 
 <div align="center">
   <a href="https://github.com/Ernan21"</a>
-  <img height="180cm" align="center" src="https://github-readme-stats.vercel.app/api?username=Ernan21&show_icons=true" />
-  <img height="180cm" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ernan21&layout=donut&langs_count=999" />
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=Ernan21&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=Ernan21&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height="300cm" align="center" src="https://github-readme-stats.vercel.app/api?username=Ernan21&show_icons=true" />
+  </picture>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Ernan21&theme=dark&langs_count=999"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Ernan21&langs_count=999"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height="300cm" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ernan21&layout=donut&langs_count=999" />
+  </picture>
 </div>
 
 ## Linguagens conhecidas
