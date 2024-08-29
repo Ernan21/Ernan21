@@ -15,7 +15,7 @@
       srcset="https://github-readme-stats.vercel.app/api?username=Ernan21&show_icons=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height="300cm" align="center" src="https://github-readme-stats.vercel.app/api?username=Ernan21&show_icons=true" />
+    <img height="200cm" align="center" src="https://github-readme-stats.vercel.app/api?username=Ernan21&show_icons=true" />
   </picture>
   <picture>
     <source
@@ -26,7 +26,7 @@
       srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Ernan21&langs_count=999"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height="300cm" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ernan21&layout=donut&langs_count=999" />
+    <img height="200cm" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ernan21&layout=donut&langs_count=999" />
   </picture>
 </div>
 
