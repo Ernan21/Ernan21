@@ -15,7 +15,7 @@
       srcset="https://github-readme-stats.vercel.app/api?username=Ernan21&show_icons=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height="200cm" align="center" src="https://github-readme-stats.vercel.app/api?username=Ernan21&show_icons=true" />
+    <img height="200cm" weight="200cm" align="center" src="https://github-readme-stats.vercel.app/api?username=Ernan21&show_icons=true" />
   </picture>
   <picture>
     <source
@@ -26,26 +26,34 @@
       srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Ernan21&langs_count=999"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height="200cm" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ernan21&layout=donut&langs_count=999" />
+    <img weight="400cm" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ernan21&layout=donut&langs_count=999" />
   </picture>
 </div>
 
 ## Linguagens conhecidas
 
 <div>
-  <img height="30cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
-  <img height="30cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
-  <img height="30cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img height="30cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-  <img height="30cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" />
-  <img height="30cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img height="30cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img height="40cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+  <img height="40cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+  <img height="40cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img height="40cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img height="40cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" />
+  <img height="40cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img height="40cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 </div>
 
 ## Frameworks
 
 <div>
-  <img height="30cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
+  <img height="40cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
+</div>
+
+## Programas
+
+<div>
+  <img height="40cm" src="https://cdn.iconscout.com/icon/free/png-512/free-excel-logo-icon-download-in-svg-png-gif-file-formats--microsoft-window-office-pack-logos-icons-1194336.png?f=webp&w=256" />
+  <img height="40cm" src="https://cdn.iconscout.com/icon/free/png-512/free-access-logo-icon-download-in-svg-png-gif-file-formats--microsoft-brand-brands-pack-logos-icons-190771.png?f=webp&w=256" />
+  <img height="40cm" src="https://cdn.iconscout.com/icon/free/png-512/free-power-bi-logo-icon-download-in-svg-png-gif-file-formats--microsoft-software-brand-pack-logos-icons-2701891.png?f=webp&w=256" />
 </div>
 
 <h2>Formas de contato</h2>
