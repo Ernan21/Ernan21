@@ -45,7 +45,7 @@
 ## Frameworks
 
 <div>
-  <img height="40cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
+  <img height="40cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
 </div>
 
 ## Programas
