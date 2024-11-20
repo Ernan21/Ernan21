@@ -5,7 +5,6 @@
 - 😄 Pronomes: **Ele/Dele**
 
 <div align="center">
-  <a href="https://github.com/Ernan21"</a>
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=Ernan21&show_icons=true&theme=dark"
