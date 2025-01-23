@@ -1,4 +1,4 @@
-<h1 align="center"> Ola! Sou o Enando Freitas 👋</h1>
+<h1 align="center"> Ola! Sou o Ernando Freitas 👋</h1>
 
 - 🔭 Hoje trabalho com **Back-end**
 - 🌱 Estou estudando a **Area de Ciencia de Dados**
