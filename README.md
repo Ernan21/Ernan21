@@ -14,7 +14,7 @@
       srcset="https://github-readme-stats.vercel.app/api?username=Ernan21&show_icons=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height="282cm" weight="400cm" align="center" src="https://github-readme-stats.vercel.app/api?username=Ernan21&show_icons=true" />
+    <img height="250cm" weight="400cm" align="center" src="https://github-readme-stats.vercel.app/api?username=Ernan21&show_icons=true" />
   </picture>
   <picture>
     <source
