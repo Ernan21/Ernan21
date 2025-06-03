@@ -14,7 +14,7 @@
       srcset="https://github-readme-stats.vercel.app/api?username=Ernan21&show_icons=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height="200cm" weight="200cm" align="center" src="https://github-readme-stats.vercel.app/api?username=Ernan21&show_icons=true" />
+    <img height="282cm" weight="400cm" align="center" src="https://github-readme-stats.vercel.app/api?username=Ernan21&show_icons=true" />
   </picture>
   <picture>
     <source
@@ -25,7 +25,7 @@
       srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Ernan21&langs_count=999"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img weight="400cm" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ernan21&layout=donut&langs_count=999" />
+    <img weight="200cm" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ernan21&layout=donut&langs_count=999" />
   </picture>
 </div>
 
@@ -38,13 +38,20 @@
   <img height="40cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
   <img height="40cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" />
   <img height="40cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+</div>
+
+## Banco de dados ( SGBD's )
+<div>
   <img height="40cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img height="40cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img height="40cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
 </div>
 
 ## Frameworks
 
 <div>
   <img height="40cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
+  <img height="40cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
 </div>
 
 ## Programas
@@ -70,4 +77,3 @@
     <img src="https://img.shields.io/badge/linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
-
